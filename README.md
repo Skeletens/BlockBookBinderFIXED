@@ -12,4 +12,17 @@ Once you're happy with how the pages are formatted, you can click the _Export_ b
 ## Demo Video on YouTube
 https://youtu.be/Mu7Hv1na7Sw
 
-NEW(I fixed it but for this to work your gonna need Maven)
+NEW(I fixed it but for this to work your gonna need Maven) also if it fails to complie u have to change the Lombok exa:
+
+
+<dependencies>
+        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.34</version>
+            <scope>provided</scope>
+        </dependency>
+
+  
+  u might need to change the verison to ur veriosn idk why it was whining to me
