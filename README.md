@@ -12,6 +12,8 @@ Once you're happy with how the pages are formatted, you can click the _Export_ b
 ## Demo Video on YouTube
 https://youtu.be/Mu7Hv1na7Sw
 
+TO RUN IT U NEED TO OPEN TARGET AND U CAN RUN THE .jar file gg ez
+ 
 NEW(I fixed it but for this to work your gonna need Maven) also if it fails to complie u have to change the Lombok exa:
 
 
