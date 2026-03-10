@@ -11,3 +11,5 @@ Once you're happy with how the pages are formatted, you can click the _Export_ b
 
 ## Demo Video on YouTube
 https://youtu.be/Mu7Hv1na7Sw
+
+NEW(I fixed it but for this to work your gonna need Maven)
